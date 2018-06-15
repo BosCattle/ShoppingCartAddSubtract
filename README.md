@@ -29,7 +29,7 @@
 
 ### 2. 在Module的build.gradle添加依赖
 
-     compile 'com.github.open-android:ShoppingCartAddSubtract:0.1.0'
+     implementation 'com.github.BosCattle:ShoppingCartAddSubtract:0.2.0'
 
 
 ### 3. 在XML添加如下代码
