@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SnappingStepper-master.iml" filepath="$PROJECT_DIR$/SnappingStepper-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShoppingCartAddSubtract.iml" filepath="$PROJECT_DIR$/ShoppingCartAddSubtract.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/snappingstepper/snappingstepper.iml" filepath="$PROJECT_DIR$/snappingstepper/snappingstepper.iml" />
     </modules>
